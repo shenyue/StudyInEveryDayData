@@ -1,0 +1,9 @@
+{
+    "appname": "StudyInEveryDay",
+    "homeurl": "https://rula.coding.net/p/StudyInEveryDayData/d/StudyInEveryDay/git/raw/master/",
+    "courses": [
+        {
+            "name": "Swift5"
+        }
+    ]
+}
