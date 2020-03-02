@@ -6,7 +6,7 @@
     ],
     "courses": [
         {
-            "name": "Swift 5"
+            "name": "Swift 5",
             "fileprefix": "swift5"
         }
     ]
