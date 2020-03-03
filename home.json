@@ -7,7 +7,21 @@
     "courses": [
         {
             "name": "Swift 5",
-            "fileprefix": "swift5"
+            "fileprefix": "swift5",
+            "lessons": [
+                { "name": "基础", "lesson": "swift5_1" },
+                { "name": "运算符", "lesson": "swift5_2" },
+                { "name": "字符串", "lesson": "swift5_3" },
+                { "name": "集合类型", "lesson": "swift5_4" },
+                { "name": "流程控制", "lesson": "swift5_5" },
+                { "name": "函数", "lesson": "swift5_6" },
+                { "name": "闭包", "lesson": "swift5_7" },
+                { "name": "枚举类型", "lesson": "swift5_8" },
+                { "name": "结构体和类", "lesson": "swift5_9" },
+                { "name": "属性", "lesson": "swift5_10" },
+                { "name": "方法", "lesson": "swift5_11" },
+                { "name": "下标", "lesson": "swift5_12" }
+            ]
         }
     ]
 }
